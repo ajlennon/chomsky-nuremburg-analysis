@@ -177,8 +177,9 @@ body {
 
 .stat-detail {
     font-size: 0.85rem;
-    color: #666;
+    color: #444;
     margin-top: 0.25rem;
+    font-weight: 500;
 }
 
 .why-matters {
@@ -186,7 +187,8 @@ body {
     padding-top: 0.75rem;
     border-top: 1px solid var(--border-color);
     font-size: 0.95rem;
-    color: #555;
+    color: #333;
+    font-weight: 500;
 }
 
 /* CTA Section */
@@ -266,10 +268,11 @@ body {
 }
 
 .stat-label {
-    color: #666;
+    color: #444;
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-weight: 600;
 }
 
 /* Key Findings */
@@ -304,10 +307,11 @@ body {
 
 .claim-text {
     font-style: italic;
-    color: #555;
+    color: #333;
     margin-top: 0.5rem;
     padding-left: 1rem;
     border-left: 2px solid var(--secondary-color);
+    font-weight: 500;
 }
 
 /* Quick Links */
@@ -350,8 +354,9 @@ body {
 }
 
 .link-card p {
-    color: #666;
+    color: #444;
     font-size: 0.95rem;
+    font-weight: 500;
 }
 
 /* Source Info */
