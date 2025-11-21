@@ -339,7 +339,7 @@ Harvard Law School Library. (n.d.). *Nuremberg Trials Project*. https://nurember
 
 ### Secondary Sources
 
-Chomsky, N. (1990). "If the Nuremberg Laws were Applied..." [Essay]. Available online.
+Chomsky, N. (1990). "If the Nuremberg Laws were Applied..." [Essay]. Available at: https://chomsky.info/1990____-2/
 
 Taylor, T. (1970). *Nuremberg and Vietnam: An American Tragedy*. New York: Times Books.
 

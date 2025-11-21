@@ -31,7 +31,7 @@ The Harvard Law School Library's Nuremberg Trials Project collection contains on
 
 This analysis verifies claims from Noam Chomsky's essay **"If the Nuremberg Laws were Applied..."** which was originally delivered around **1990**. In this essay, Chomsky presents a critical analysis of the Nuremberg and Tokyo Trials, arguing that they employed selective standards in determining war crimes.
 
-**Original Source:** Chomsky, Noam. "If the Nuremberg Laws were Applied..." (delivered around 1990). Available online in various formats.
+**Original Source:** Chomsky, Noam. "If the Nuremberg Laws were Applied..." (delivered around 1990). Available at: [https://chomsky.info/1990____-2/](https://chomsky.info/1990____-2/)
 
 ## What This Analysis Does
 

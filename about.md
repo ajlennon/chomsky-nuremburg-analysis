@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Project Overview
 
-This project analyzes and verifies claims made in Noam Chomsky's essay "If the Nuremberg Laws were Applied..." against documents from the Harvard Law School Library's Nuremberg Trials Project.
+This project analyzes and verifies claims made in Noam Chomsky's essay ["If the Nuremberg Laws were Applied..."](https://chomsky.info/1990____-2/) (delivered around 1990) against documents from the Harvard Law School Library's Nuremberg Trials Project.
 
 **Why Now?** This analysis is possible because the Harvard Law School Library has recently released a fully digitized and searchable archive of the Nuremberg Trials documents. The library received the bulk of this collection in 1949, digitization began in 1998, and the archive has been recently released as a fully searchable online collection with over 750,000 pages of documents.
 
