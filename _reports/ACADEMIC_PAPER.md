@@ -366,5 +366,5 @@ See [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | re
 
 **This academic paper format provides proper citation structure and scholarly analysis while maintaining accessibility.**
 
-**For general readers, see:** [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})  
-**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+**For general readers, see:** [Executive Summary]({{ '/reports/executive-summary/' | relative_url }})  
+**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
