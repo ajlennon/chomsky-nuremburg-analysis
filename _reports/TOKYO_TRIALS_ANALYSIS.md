@@ -261,5 +261,12 @@ We have successfully:
 **Author:** Alex J Lennon <ajlennon@gmail.com>  
 **With assistance from:** Cursor Composer 1  
 **Analysis Date:** November 21, 2025  
-**Source:** Tokyo Trial Database (tokyotrial.cn), University of Wisconsin-Madison Libraries
+**Sources Explored:** 
+- Tokyo Trial Database (tokyotrial.cn)
+- JACAR (Japan Center for Asian Historical Records)
+- University of Wisconsin-Madison Libraries (subscription required)
+- National Archives of Japan Digital Archive
+- Additional sources documented
+
+**Additional Resources Documented:** See `TOKYO_TRIALS_ADDITIONAL_SOURCES.md` for complete list of available archives and access requirements.
 
