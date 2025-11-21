@@ -335,7 +335,7 @@ This analysis verifies 55% of Chomsky's claims with extensive evidence from prim
 
 Harvard Law School Library. (n.d.). *Nuremberg Trials Project*. https://nuremberg.law.harvard.edu/
 
-**Verified Document URLs:** See [Verified URLs]({{ '/reports/verified_urls' | relative_url }}) for complete list of 110 verified source URLs.
+**Verified Document URLs:** See [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) for complete list of 110 verified source URLs.
 
 ### Secondary Sources
 
