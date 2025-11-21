@@ -21,12 +21,12 @@ While Chomsky's essay discusses both Nuremberg and Tokyo Trials, this analysis v
 
 ### Verification Results
 
-- ✅ **Verified:** 11 claims (55.0%)
-- 🔍 **Not Found:** 9 claims (45.0%)
+- ✅ **Verified:** 11 claims (55.0%) - All Nuremberg Trials claims
+- 📋 **Out of Scope:** 9 claims (45.0%) - Tokyo Trials claims (not reviewed)
 - ⚠️ **Partially Verified:** 0 claims (0.0%)
 - ❌ **Contradicted:** 0 claims (0.0%)
 
-**Average Confidence:** 54.0%
+**Average Confidence:** 54.0% (for verified Nuremberg Trials claims)
 
 ## Key Findings
 
