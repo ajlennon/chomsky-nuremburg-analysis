@@ -1,11 +1,5 @@
 ---
 layout: report
-title: "Analysis Summary: Chomsky Claims Verification"
-date: 2025-11-20
-source: "Harvard Law School Library's Nuremberg Trials Project"
----
-
----
 title: Analysis Summary
 description: Executive summary of findings and verification results
 order: 8
@@ -14,8 +8,14 @@ order: 8
 # Analysis Summary: Chomsky Claims Verification
 
 **Date:** November 20, 2025  
-**Total Claims Analyzed:** 20  
+**Total Claims Analyzed:** 20 (11 Nuremberg Trials claims verified, 9 Tokyo Trials claims out of scope)  
 **Source:** Harvard Law School Library's Nuremberg Trials Project
+
+## Scope
+
+**Important:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed in this work.
+
+While Chomsky's essay discusses both Nuremberg and Tokyo Trials, this analysis verifies only those claims relating to the Nuremberg Trials, using documents from the Harvard Law School Library's Nuremberg Trials Project collection.
 
 ## Executive Summary
 
