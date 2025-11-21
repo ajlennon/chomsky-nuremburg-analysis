@@ -90,20 +90,20 @@ Browse all analysis documents organized by category and purpose.
 ## 📖 Reading Paths
 
 ### Quick Understanding (10 minutes)
-1. [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY' | relative_url }})
-2. [Visual Summary]({{ '/reports/VISUAL_SUMMARY' | relative_url }})
+1. [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})
+2. [Visual Summary]({{ '/reports/VISUAL_SUMMARY/' | relative_url }})
 
 ### Comprehensive Study (2-3 hours)
-1. [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY' | relative_url }})
-2. [Glossary]({{ '/reports/GLOSSARY' | relative_url }}) + [Timeline]({{ '/reports/TIMELINE' | relative_url }}) + [Who's Who]({{ '/reports/WHO_IS_WHO' | relative_url }})
-3. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED' | relative_url }})
-4. [Academic Paper]({{ '/reports/ACADEMIC_PAPER' | relative_url }})
+1. [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})
+2. [Glossary]({{ '/reports/GLOSSARY/' | relative_url }}) + [Timeline]({{ '/reports/TIMELINE/' | relative_url }}) + [Who's Who]({{ '/reports/WHO_IS_WHO/' | relative_url }})
+3. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+4. [Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})
 
 ### Academic Research
-1. [Academic Paper]({{ '/reports/ACADEMIC_PAPER' | relative_url }})
-2. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED' | relative_url }})
-3. [Verified URLs]({{ '/reports/verified_urls' | relative_url }})
-4. [JSON Data]({{ '/reports/chomsky_verification_report_20251120_202811' | relative_url }})
+1. [Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})
+2. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+3. [Verified URLs]({{ '/reports/verified_urls/' | relative_url }})
+4. [JSON Data]({{ '/reports/chomsky_verification_report_20251120_202811/' | relative_url }})
 
 ---
 
