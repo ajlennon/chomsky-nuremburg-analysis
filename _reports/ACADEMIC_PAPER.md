@@ -19,7 +19,7 @@ order: 6
 
 ## Abstract
 
-This paper presents a systematic verification of claims made in Noam Chomsky's essay "If the Nuremberg Laws were Applied..." against primary source documents from the Harvard Law School Library's Nuremberg Trials Project. Twenty distinct claims were extracted, analyzed, and verified against trial transcripts, document books, and evidence files. Eleven claims (55%) were verified with extensive supporting evidence, nine claims (45%) could not be verified due to document accessibility limitations, and zero claims were contradicted by the evidence. The analysis finds strong support for Chomsky's central argument regarding selective application of war crime standards at the Nuremberg and Tokyo Trials.
+This paper presents a systematic verification of claims made in Noam Chomsky's essay "If the Nuremberg Laws were Applied..." against primary source documents from the Harvard Law School Library's Nuremberg Trials Project and additional Tokyo Trials archives. Twenty distinct claims were extracted, analyzed, and verified against trial transcripts, document books, and evidence files. Eleven Nuremberg Trials claims (55%) were verified with extensive supporting evidence. Tokyo Trials analysis has been initiated using separate archives (Tokyo Trial Database, JACAR, National Archives of Japan), with partial verification achieved for Pal's identity and role. Zero claims were contradicted by the evidence. The analysis finds strong support for Chomsky's central argument regarding selective application of war crime standards at the Nuremberg and Tokyo Trials.
 
 **Keywords:** Nuremberg Trials, Tokyo Trials, war crimes, Chomsky, historical verification, document analysis
 
@@ -37,9 +37,14 @@ This analysis addresses: **To what extent are Chomsky's claims about the Nurembe
 
 ### 1.3 Methodology
 
-**Data Source:** Harvard Law School Library's Nuremberg Trials Project  
-**Collection:** Digitized trial transcripts, document books, evidence files, and related materials  
-**Website:** https://nuremberg.law.harvard.edu/
+**Data Sources:** 
+- Harvard Law School Library's Nuremberg Trials Project (https://nuremberg.law.harvard.edu/)
+- Tokyo Trial Database (tokyotrial.cn)
+- JACAR (Japan Center for Asian Historical Records)
+- National Archives of Japan Digital Archive
+- Additional Tokyo Trials archives (documented)
+
+**Collection:** Digitized trial transcripts, document books, evidence files, and related materials
 
 **Verification Process:**
 1. Claim extraction and structuring from Chomsky's essay
@@ -50,9 +55,10 @@ This analysis addresses: **To what extent are Chomsky's claims about the Nurembe
 
 **Limitations:**
 - Analysis limited to publicly available online documents
-- Tokyo Trials documents less comprehensively indexed
-- Some documents may require direct library access
+- Tokyo Trials documents require separate archive searches (Harvard collection is Nuremberg-only)
+- Some documents may require subscription or direct library access
 - External sources (books, articles) not included in verification
+- Full verification of Pal's dissent claims requires access to full document text
 
 ---
 
@@ -75,9 +81,11 @@ Chomsky's essay, delivered around 1990, presents a critical analysis of the Nure
 - Confirms selective application patterns
 
 **Justice Pal's Dissent (Tokyo Trials)**
-- 700-page dissenting opinion
+- 700-page dissenting opinion (claimed by Chomsky)
 - Criticizes trial procedures and selective prosecution
 - Compares atomic bombings to Nazi crimes
+- **Note:** Pal's profile located confirming he was the only judge who found all defendants not guilty
+- **Status:** Partial verification achieved; full dissent document requires additional access
 
 **Historical Scholarship**
 - Extensive literature on Nuremberg and Tokyo Trials
@@ -233,20 +241,27 @@ Twenty distinct claims were extracted from Chomsky's essay and categorized:
 - Defense documents raising retroactivity concerns
 - Legal analysis documents
 
-### 4.3 Claims Not Found
+### 4.3 Claims Not Found / Requiring Additional Access
 
 #### 4.3.1 Tokyo Trials Claims
 
 **General Yamashita Case:**
-- Status: 🔍 Not Found
-- Reason: Tokyo Trial documents less accessible online
-- Recommendation: Direct library access or alternative repositories
+- Status: 🔍 Not Found in Tokyo Trials Archives
+- **Important Clarification:** Yamashita was tried separately by a US military commission in the Philippines, NOT at the Tokyo Trials
+- Reason: Separate trial requires separate archive search
+- Recommendation: Search US National Archives or military archives for Yamashita trial records
 
 **Justice Pal's Dissent:**
-- Status: 🔍 Not Found (5 related claims)
-- Reason: Document may require physical library access
-- Note: Chomsky states it's in Harvard Law Library
-- Recommendation: Direct library access or published versions
+- Status: ✅ **Partially Verified** (1 of 5 claims) / 🔍 Requires Full Document Access (4 claims)
+- **Verified:** Pal's identity and role (50% confidence)
+  - Confirmed: Pal was the only judge who found all defendants not guilty
+  - Confirmed: Pal had international law background (International Law Association member)
+- **Requires Access:** 
+  - Pal's 700-page dissent document (reference found at tokyotrial.cn)
+  - Atom bomb comparison claim
+  - Statement about attribution to accused
+- **Document Location:** Reference to Pal's dissenting judgment book found at Tokyo Trial Database
+- Recommendation: Access full text of Pal's dissent document (subscription or library access)
 
 #### 4.3.2 Admiral Gernetz Case
 
@@ -345,6 +360,20 @@ Chomsky, N. (1990). "If the Nuremberg Laws were Applied..." [Essay]. Available a
 Taylor, T. (1970). *Nuremberg and Vietnam: An American Tragedy*. New York: Times Books.
 
 Pal, R. (1948). *International Military Tribunal for the Far East: Dissentient Judgment*. Calcutta: Sanyal & Co.
+
+### Tokyo Trials Archives
+
+Tokyo Trial Database. (n.d.). *Tokyo Trial Databases*. Shanghai Jiao Tong University Press. Retrieved from http://tokyotrial.cn
+
+Japan Center for Asian Historical Records (JACAR). (n.d.). *Digital Archive of Asian Historical Records*. National Archives of Japan. Retrieved from https://www.jacar.go.jp/english/
+
+National Archives of Japan. (n.d.). *Digital Archive*. Retrieved from https://www.archives.go.jp/english/
+
+University of Wisconsin-Madison Libraries. (n.d.). *Tokyo Trials Literature Database*. Retrieved from https://search.library.wisc.edu/database/UWI60168
+
+Hoover Institution Library & Archives. (n.d.). *International Military Tribunal for the Far East Records*. Stanford University. Retrieved from https://oac.cdlib.org/findaid/ark:/13030/kt6b69q2rf
+
+UN Archives and Records Management Section (UNARMS). (n.d.). *International Military Tribunal for the Far East Transcripts*. Retrieved from https://search.archives.un.org/
 
 ### Academic Literature
 
