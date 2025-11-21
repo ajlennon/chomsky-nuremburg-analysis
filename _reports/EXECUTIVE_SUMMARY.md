@@ -228,7 +228,7 @@ This raises questions about:
 
 ## Further Reading
 
-- **Chomsky's Original Essay:** Available online
+- **Chomsky's Original Essay:** [https://chomsky.info/1990____-2/](https://chomsky.info/1990____-2/)
 - **Telford Taylor's Book:** "Nuremberg and Vietnam" (library)
 - **Harvard Collection:** https://nuremberg.law.harvard.edu/
 - **Academic Sources:** See bibliography in detailed analysis
