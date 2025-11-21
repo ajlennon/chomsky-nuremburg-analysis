@@ -9,11 +9,23 @@ order: 1
 
 **For General Readers**
 
+## Why This Analysis Now?
+
+This analysis is possible now because the **Harvard Law School Library has recently released a fully digitized and searchable archive** of the Nuremberg Trials documents. This comprehensive collection includes over 750,000 pages of transcripts, briefs, and evidence exhibits from all 13 Nuremberg trials.
+
+**Archive Provenance:**
+- The Harvard Law School Library received the bulk of this collection in **1949**, following the conclusion of the trials
+- The library has since added documents donated by tribunal participants
+- The digitization project began in **1998** to preserve deteriorating documents and enhance accessibility
+- The archive has been recently released as a fully searchable online collection
+
+This release provides unprecedented access to verify historical claims against primary source documents.
+
 ## Scope of This Analysis
 
-**Important:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed in this work.
+**Important:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **not reviewed** because there is **no available evidence in the Harvard archive we are using**.
 
-While Chomsky's essay discusses both Nuremberg and Tokyo Trials, this analysis verifies only those claims relating to the Nuremberg Trials, using documents from the Harvard Law School Library's Nuremberg Trials Project collection.
+The Harvard Law School Library's Nuremberg Trials Project collection contains only Nuremberg Trials documents - it does not include Tokyo Trials materials. While Chomsky's essay discusses both Nuremberg and Tokyo Trials, this analysis verifies only those claims relating to the Nuremberg Trials, using documents from this archive.
 
 ## About Chomsky's Original Work
 
@@ -113,11 +125,11 @@ Normally, you can't be punished for something that wasn't illegal when you did i
 
 ---
 
-### 5. Tokyo Trials Claims - OUT OF SCOPE
+### 5. Tokyo Trials Claims - NOT REVIEWED
 
-**Note:** Claims relating to Tokyo Trials (including General Yamashita and Justice Pal's dissent) are **out of scope** for this analysis. This work focuses exclusively on Nuremberg Trials claims.
+**Note:** Claims relating to Tokyo Trials (including General Yamashita and Justice Pal's dissent) are **not reviewed** in this analysis because there is **no available evidence in the Harvard archive we are using**.
 
-The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While Chomsky's essay discusses Tokyo Trials, those claims are not reviewed in this analysis.
+The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While Chomsky's essay discusses Tokyo Trials, those claims cannot be verified using this archive because the materials are not part of this collection.
 
 ---
 

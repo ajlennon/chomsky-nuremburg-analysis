@@ -8,7 +8,9 @@ permalink: /about/
 
 This project analyzes and verifies claims made in Noam Chomsky's essay "If the Nuremberg Laws were Applied..." against documents from the Harvard Law School Library's Nuremberg Trials Project.
 
-**Scope:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed in this work.
+**Why Now?** This analysis is possible because the Harvard Law School Library has recently released a fully digitized and searchable archive of the Nuremberg Trials documents. The library received the bulk of this collection in 1949, digitization began in 1998, and the archive has been recently released as a fully searchable online collection with over 750,000 pages of documents.
+
+**Scope:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **not reviewed** because there is **no available evidence in the Harvard archive we are using** - the collection contains only Nuremberg Trials documents, not Tokyo Trials materials.
 
 ## Methodology
 
@@ -59,12 +61,21 @@ This project analyzes and verifies claims made in Noam Chomsky's essay "If the N
 
 **Primary Source:** [Harvard Law School Library's Nuremberg Trials Project](https://nuremberg.law.harvard.edu/)
 
+**Archive Provenance:**
+- The Harvard Law School Library received the bulk of this collection in **1949**, following the conclusion of the trials
+- The library has since added documents donated by tribunal participants
+- The digitization project began in **1998** to preserve deteriorating documents and enhance accessibility
+- The archive has been recently released as a fully searchable online collection
+
 The Harvard collection includes:
+- Over 750,000 pages of documents
 - Trial transcripts (IMT and NMT trials)
 - Document books and exhibits
 - Evidence files
 - Photographs
 - Searchable full-text versions
+
+**Note:** The collection contains only Nuremberg Trials documents - it does not include Tokyo Trials materials, which is why Tokyo Trials claims are not reviewed in this analysis.
 
 ## Analysis Tool
 
