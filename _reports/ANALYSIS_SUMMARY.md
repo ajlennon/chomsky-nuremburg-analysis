@@ -5,6 +5,12 @@ date: 2025-11-20
 source: "Harvard Law School Library's Nuremberg Trials Project"
 ---
 
+---
+title: Analysis Summary
+description: Executive summary of findings and verification results
+order: 8
+---
+
 # Analysis Summary: Chomsky Claims Verification
 
 **Date:** November 20, 2025  

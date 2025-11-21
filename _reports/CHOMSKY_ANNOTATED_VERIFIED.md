@@ -5,6 +5,12 @@ date: 2025-11-20
 source: "Harvard Law School Library's Nuremberg Trials Project"
 ---
 
+---
+title: "If the Nuremberg Laws were Applied..."
+description: Complete annotated version of Chomsky's essay with verification status for each claim
+order: 7
+---
+
 # If the Nuremberg Laws were Applied...
 
 ## An Annotated and Verified Edition

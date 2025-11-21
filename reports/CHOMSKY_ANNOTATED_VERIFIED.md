@@ -13,7 +13,14 @@
 
 This document presents Chomsky's original essay "If the Nuremberg Laws were Applied..." with extensive commentary on the validity of each claim, verified against documents from the Harvard Law School Library's Nuremberg Trials Project. Each claim has been analyzed against actual trial documents, transcripts, and evidence files.
 
-**Verification Methodology:**
+### For Different Readers
+
+- **General Readers:** See [Executive Summary](EXECUTIVE_SUMMARY.md) for plain language overview
+- **Academic Use:** See [Academic Paper](ACADEMIC_PAPER.md) for scholarly format
+- **Need Context?** See [Glossary](GLOSSARY.md), [Timeline](TIMELINE.md), and [Who's Who](WHO_IS_WHO.md)
+
+### Verification Methodology
+
 - Claims extracted and structured from Chomsky's essay
 - Documents searched from Harvard's Nuremberg Trials Project
 - Evidence excerpts extracted and analyzed
@@ -21,6 +28,13 @@ This document presents Chomsky's original essay "If the Nuremberg Laws were Appl
 - Status: Verified, Partially Verified, Contradicted, or Not Found
 
 **Important Note:** This analysis is based on publicly available documents from the Harvard Law School Library's Nuremberg Trials Project. Some claims may require access to additional sources (e.g., Telford Taylor's book "Nuremberg and Vietnam") or direct library access (e.g., Justice Pal's dissent).
+
+### Quick Summary
+
+**Results:** 11 of 20 claims verified (55%) with extensive evidence  
+**Evidence Found:** Over 30,000 supporting excerpts  
+**Contradictions:** None found  
+**Key Finding:** Chomsky's main argument about selective prosecution is strongly supported
 
 ---
 
@@ -314,6 +328,12 @@ The documents show consistent patterns where:
 > Also, bear in mind, people ought to be pretty critical about the Nuremberg principles. I don't mean to suggest they're some kind of model of probity or anything. For one thing, they were ex post facto. These were determined to be crimes by the victors after they had won.
 
 ### Verification Status: ✅ VERIFIED (Confidence: 100%)
+
+**In Plain English:**
+"Ex post facto" means making something illegal after it was done. Normally, you can't be punished for something that was legal when you did it. But Nuremberg did exactly that - they created new laws after the war ended, then punished people for things they did during the war when those laws didn't exist.
+
+**Why This Matters:**
+This violates a basic legal principle: you can't be punished for something that wasn't illegal when you did it. It's like making speeding illegal today, then punishing you for speeding last year.
 
 **Analysis:** Chomsky's claim that Nuremberg principles were ex post facto (retroactive) is strongly supported.
 

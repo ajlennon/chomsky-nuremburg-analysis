@@ -24,6 +24,7 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+  - reports/
 
 # Collections
 collections:
