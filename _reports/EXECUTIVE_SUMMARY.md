@@ -9,6 +9,12 @@ order: 1
 
 **For General Readers**
 
+## About Chomsky's Original Work
+
+This analysis verifies claims from Noam Chomsky's essay **"If the Nuremberg Laws were Applied..."** which was originally delivered around **1990**. In this essay, Chomsky presents a critical analysis of the Nuremberg and Tokyo Trials, arguing that they employed selective standards in determining war crimes.
+
+**Original Source:** Chomsky, Noam. "If the Nuremberg Laws were Applied..." (delivered around 1990). Available online in various formats.
+
 ## What This Analysis Does
 
 This analysis checks whether Noam Chomsky's claims about the Nuremberg Trials are supported by actual historical documents from Harvard Law School's collection of trial records.
