@@ -44,10 +44,21 @@
       },
       "publisher": {
         "@type": "Organization",
-        "name": "{{ site.title }}"
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}{{ site.baseurl }}"
       }{% if page.date %},
       "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
-      "dateModified": "{{ page.date | date: '%Y-%m-%d' }}"{% endif %}
+      "dateModified": "{{ page.date | date: '%Y-%m-%d' }}"{% endif %}{% if page.layout == 'report' %},
+      "headline": "{{ page.title }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Nuremberg Trials"
+      },
+      "keywords": "Chomsky, Nuremberg Trials, Tokyo Trials, war crimes, historical verification, document analysis"{% endif %}
     }
     </script>
 </head>
