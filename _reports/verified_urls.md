@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Verified Source URLs
 description: Complete list of 110 verified source URLs from Harvard collection
 order: 10

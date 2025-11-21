@@ -12,7 +12,7 @@ Browse all analysis documents organized by category and purpose.
 
 ### Start Here
 
-**[Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY' | relative_url }})**
+**[Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})**
 - Plain language overview
 - Key findings highlighted
 - Visual summaries
@@ -20,22 +20,22 @@ Browse all analysis documents organized by category and purpose.
 
 ### Supporting Materials
 
-**[Glossary]({{ '/reports/GLOSSARY' | relative_url }})**
+**[Glossary]({{ '/reports/GLOSSARY/' | relative_url }})**
 - Legal and historical terms explained
 - Plain language definitions
 - Examples and context
 
-**[Timeline]({{ '/reports/TIMELINE' | relative_url }})**
+**[Timeline]({{ '/reports/TIMELINE/' | relative_url }})**
 - Key dates and events
 - Historical context
 - Why timing matters
 
-**[Who's Who]({{ '/reports/WHO_IS_WHO' | relative_url }})**
+**[Who's Who]({{ '/reports/WHO_IS_WHO/' | relative_url }})**
 - Key figures explained
 - Their roles and importance
 - Connection to claims
 
-**[Visual Summary]({{ '/reports/VISUAL_SUMMARY' | relative_url }})**
+**[Visual Summary]({{ '/reports/VISUAL_SUMMARY/' | relative_url }})**
 - Charts and graphs
 - Quick statistics
 - Visual representations
@@ -44,18 +44,18 @@ Browse all analysis documents organized by category and purpose.
 
 ## 📚 Detailed Analysis
 
-**[Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED' | relative_url }})**
+**[Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})**
 - Complete annotated essay
 - All claims with verification status
 - Evidence excerpts and citations
 - Detailed commentary
 
-**[Analysis Summary]({{ '/reports/ANALYSIS_SUMMARY' | relative_url }})**
+**[Analysis Summary]({{ '/reports/ANALYSIS_SUMMARY/' | relative_url }})**
 - Executive summary of findings
 - Key verified claims
 - Recommendations
 
-**[Detailed Verification Report]({{ '/reports/chomsky_verification_report_20251120_202811' | relative_url }})**
+**[Detailed Verification Report]({{ '/reports/chomsky_verification_report_20251120_202811/' | relative_url }})**
 - Complete verification results
 - All claims analyzed
 - Evidence excerpts
@@ -64,7 +64,7 @@ Browse all analysis documents organized by category and purpose.
 
 ## 🎓 Academic Use
 
-**[Academic Paper]({{ '/reports/ACADEMIC_PAPER' | relative_url }})**
+**[Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})**
 - Proper academic format
 - Methodology section
 - Literature review
@@ -75,12 +75,12 @@ Browse all analysis documents organized by category and purpose.
 
 ## 📊 Data Files
 
-**[Verified URLs]({{ '/reports/verified_urls' | relative_url }})**
+**[Verified URLs]({{ '/reports/verified_urls/' | relative_url }})**
 - List of 110 verified source URLs
 - All citations verified to exist
 - Direct links to Harvard documents
 
-**[JSON Data]({{ '/reports/chomsky_verification_report_20251120_202811' | relative_url }})**
+**[JSON Data]({{ '/reports/chomsky_verification_report_20251120_202811/' | relative_url }})**
 - Machine-readable format
 - Complete verification results
 - For further analysis

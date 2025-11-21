@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Who's Who
 description: Key figures explained - quick reference guide
 order: 4

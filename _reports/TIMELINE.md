@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Timeline
 description: Key dates and events for understanding historical context
 order: 3

@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Academic Paper
 description: Scholarly format with proper citations and methodology
 order: 6

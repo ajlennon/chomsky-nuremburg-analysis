@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Visual Summary
 description: Charts, graphs, and quick statistics
 order: 5

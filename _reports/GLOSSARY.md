@@ -1,4 +1,5 @@
 ---
+layout: report
 title: Glossary
 description: Legal and historical terms explained in plain language
 order: 2
