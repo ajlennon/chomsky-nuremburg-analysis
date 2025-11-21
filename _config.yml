@@ -1,0 +1,46 @@
+# Site Configuration
+title: "Chomsky Nuremberg Analysis"
+description: "Verification of Noam Chomsky's essay 'If the Nuremberg Laws were Applied...' against documents from the Harvard Law School Library's Nuremberg Trials Project"
+url: "https://ajlennon.github.io"
+baseurl: "/chomsky-nuremburg-analysis"
+author: "Alex J Lennon"
+email: "ajlennon@dynamicdevices.co.uk"
+
+# Jekyll Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - README.md
+  - nuremberg_analysis/
+  - __pycache__/
+  - "*.pyc"
+  - .git/
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  reports:
+    output: true
+    permalink: /reports/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: "report"
+

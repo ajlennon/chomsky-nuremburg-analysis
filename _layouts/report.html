@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="report">
+    <header class="report-header">
+        <h1 class="report-title">{{ page.title }}</h1>
+        {% if page.date %}
+        <time class="report-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        {% endif %}
+    </header>
+    
+    <div class="report-content">
+        {{ content }}
+    </div>
+    
+    {% if page.source %}
+    <footer class="report-footer">
+        <p><strong>Source:</strong> {{ page.source }}</p>
+    </footer>
+    {% endif %}
+</article>
+
