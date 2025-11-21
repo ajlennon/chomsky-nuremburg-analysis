@@ -283,10 +283,11 @@ The extensive evidence (over 30,000 excerpts) supporting Chomsky's central argum
 Importantly, no claims were contradicted by the evidence. This suggests Chomsky's essay is generally accurate in its factual claims, even when specific documents weren't found.
 
 **Accessibility Limitations:**
-The "not found" claims primarily relate to Tokyo Trials, suggesting either:
-1. Less complete digitization/indexing
-2. Different access requirements
+The "not found" or "requires access" claims primarily relate to Tokyo Trials, suggesting either:
+1. Harvard collection is Nuremberg-only (Tokyo Trials require separate archives)
+2. Documents require subscription or library access
 3. Need for alternative search strategies
+4. **Tokyo Trials Analysis:** Separate analysis framework created; partial verification achieved using Tokyo Trial Database and JACAR
 
 ### 5.2 Comparison with Academic Literature
 
@@ -299,9 +300,10 @@ The findings align with academic critiques of victors' justice and ex post facto
 ### 5.3 Limitations
 
 **Document Access:**
-- Limited to online collection
-- Some documents require physical access
-- Tokyo Trials less comprehensively available
+- Limited to publicly available online collections
+- Some documents require subscription or physical access
+- Tokyo Trials require separate archives (Harvard collection is Nuremberg-only)
+- Tokyo Trials analysis framework created; partial verification achieved
 
 **Search Limitations:**
 - Keyword-based searches may miss relevant documents
@@ -335,13 +337,16 @@ This analysis verifies 55% of Chomsky's claims with extensive evidence from prim
 2. The "operational criterion" pattern appears consistently in documents
 3. Telford Taylor's statements confirm Chomsky's characterization
 4. Claims about ex post facto nature are verified
-5. Tokyo Trials claims require additional document access
+5. Tokyo Trials analysis framework complete; partial verification achieved (Pal's identity confirmed)
+6. Tokyo Trials full verification requires additional document access (Pal's dissent, Yamashita records)
 
 **Recommendations:**
-1. Further research on Tokyo Trials documents
-2. Consultation of external sources (Taylor's book, Pal's dissent)
-3. Comparison with other academic analyses
-4. Consideration of broader historical context
+1. **Tokyo Trials Analysis:** Continue with access to full text of Pal's dissent document
+2. **Yamashita Case:** Search separate archives (US National Archives, military archives)
+3. Consultation of external sources (Taylor's book, Pal's dissent)
+4. Comparison with other academic analyses
+5. Consideration of broader historical context
+6. Expand access to subscription databases and library collections
 
 ---
 
