@@ -224,7 +224,7 @@ body {
 .cta-text {
     display: inline-block;
     margin-top: 0.5rem;
-    color: var(--secondary-color);
+    color: #1a5f8f;
     font-weight: 600;
     font-size: 0.95rem;
 }
@@ -518,8 +518,9 @@ body {
 }
 
 .footer-col a {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.95);
     text-decoration: none;
+    font-weight: 500;
 }
 
 .footer-col a:hover {
