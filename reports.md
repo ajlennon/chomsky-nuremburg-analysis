@@ -62,6 +62,19 @@ Browse all analysis documents organized by category and purpose.
 
 ---
 
+## 🌏 Tokyo Trials Analysis
+
+**[Tokyo Trials Analysis]({{ '/reports/tokyo-trials-analysis/' | relative_url }})**
+- Analysis of Chomsky's Tokyo Trials claims
+- Pal's dissent verification
+- Yamashita case investigation
+- **Status:** Analysis framework complete, partial verification achieved
+- **Key Finding:** Pal's profile confirms he was the only judge who found all defendants not guilty
+
+**Note:** Tokyo Trials analysis uses separate archives (Tokyo Trial Database, University of Wisconsin-Madison Libraries, JACAR, Hoover Institution) as the Harvard archive contains only Nuremberg Trials documents.
+
+---
+
 ## 🎓 Academic Use
 
 **[Academic Paper]({{ '/reports/academic-paper/' | relative_url }})**
@@ -109,9 +122,9 @@ Browse all analysis documents organized by category and purpose.
 
 ## 📈 Statistics
 
-- **Total Documents:** 10 analysis documents
-- **Claims Analyzed:** 20
-- **Verified:** 11 (55%)
+- **Total Documents:** 11 analysis documents (including Tokyo Trials)
+- **Claims Analyzed:** 20 (Nuremberg) + 9 (Tokyo Trials, in progress)
+- **Verified:** 11 (55% of Nuremberg claims)
 - **Evidence Excerpts:** 30,000+
 - **Verified URLs:** 110
 
