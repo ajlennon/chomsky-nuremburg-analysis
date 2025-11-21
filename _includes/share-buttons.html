@@ -1,0 +1,32 @@
+<div class="share-buttons" aria-label="Share this page">
+    <h3>Share this page</h3>
+    <div class="share-links">
+        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           class="share-button twitter"
+           aria-label="Share on Twitter">
+            Twitter
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           class="share-button facebook"
+           aria-label="Share on Facebook">
+            Facebook
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           class="share-button linkedin"
+           aria-label="Share on LinkedIn">
+            LinkedIn
+        </a>
+        <a href="mailto:?subject={{ page.title | url_encode }}&body={{ page.url | absolute_url | url_encode }}" 
+           class="share-button email"
+           aria-label="Share via Email">
+            Email
+        </a>
+    </div>
+</div>
+

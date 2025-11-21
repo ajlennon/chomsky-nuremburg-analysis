@@ -611,3 +611,117 @@ body {
     }
 }
 
+/* Print Styles */
+@media print {
+    .site-header,
+    .site-footer,
+    .share-buttons,
+    .nav-trigger,
+    .site-nav,
+    .cta-primary,
+    .quick-links {
+        display: none !important;
+    }
+    
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+        color: #000;
+        background: #fff;
+    }
+    
+    .report-content {
+        max-width: 100%;
+        padding: 0;
+    }
+    
+    a {
+        color: #000;
+        text-decoration: underline;
+    }
+    
+    a[href^="http"]:after {
+        content: " (" attr(href) ")";
+        font-size: 0.9em;
+    }
+    
+    .page-break {
+        page-break-before: always;
+    }
+    
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    blockquote, pre {
+        page-break-inside: avoid;
+    }
+}
+
+/* Share Buttons */
+.share-buttons {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: var(--light-bg);
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.share-buttons h3 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.share-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.share-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+}
+
+.share-button:hover {
+    background: var(--secondary-color);
+}
+
+.share-button.twitter {
+    background: #1da1f2;
+}
+
+.share-button.facebook {
+    background: #1877f2;
+}
+
+.share-button.linkedin {
+    background: #0077b5;
+}
+
+.share-button.email {
+    background: #666;
+}
+
+/* Reading Time */
+.reading-time {
+    color: #666;
+    font-style: italic;
+    margin-top: 0.5rem;
+}
+
+/* Report Description */
+.report-description {
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+

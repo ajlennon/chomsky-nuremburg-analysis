@@ -7,11 +7,23 @@ layout: default
         {% if page.date %}
         <time class="report-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
         {% endif %}
+        {% if page.description %}
+        <p class="report-description">{{ page.description }}</p>
+        {% endif %}
+        {% assign words = content | number_of_words %}
+        {% assign reading_time = words | divided_by: 200.0 | ceil %}
+        {% if reading_time > 0 %}
+        <p class="reading-time"><small>Reading time: ~{{ reading_time }} minute{% if reading_time > 1 %}s{% endif %}</small></p>
+        {% endif %}
     </header>
+    
+    {% include share-buttons.html %}
     
     <div class="report-content">
         {{ content }}
     </div>
+    
+    {% include share-buttons.html %}
     
     {% if page.source %}
     <footer class="report-footer">
