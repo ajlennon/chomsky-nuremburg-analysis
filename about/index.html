@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Chomsky Nuremberg Analysis</title>
+    <meta name="description" content="Verification of Noam Chomsky's essay 'If the Nuremberg Laws were Applied...' against documents from the Harvard Law School Library's Nuremberg Trials Project">
+    <link rel="stylesheet" href="/chomsky-nuremburg-analysis/assets/css/main.css">
+    <link rel="canonical" href="https://ajlennon.github.io/chomsky-nuremburg-analysis/about/">
+</head>
+<body>
+    <header class="site-header">
+    <div class="wrapper">
+        <a class="site-title" href="/chomsky-nuremburg-analysis/">Chomsky Nuremberg Analysis</a>
+        <nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger">
+                <span class="menu-icon">
+                    <svg viewBox="0 0 18 15" width="18px" height="15px">
+                        <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0h15.032C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                        <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                        <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                    </svg>
+                </span>
+            </label>
+            
+            <div class="trigger">
+                <a class="page-link" href="/chomsky-nuremburg-analysis/">Home</a>
+                <a class="page-link" href="/chomsky-nuremburg-analysis/analysis">Analysis</a>
+                <a class="page-link" href="/chomsky-nuremburg-analysis/reports">Reports</a>
+                <a class="page-link" href="/chomsky-nuremburg-analysis/about">About</a>
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+    
+    <main class="main-content">
+        <article class="page">
+    <header class="page-header">
+        <h1 class="page-title">About</h1>
+        
+    </header>
+    
+    <div class="page-content">
+        <h2 id="project-overview">Project Overview</h2>
+
+<p>This project analyzes and verifies claims made in Noam Chomsky’s essay “If the Nuremberg Laws were Applied…” against documents from the Harvard Law School Library’s Nuremberg Trials Project.</p>
+
+<h2 id="methodology">Methodology</h2>
+
+<h3 id="claim-extraction">Claim Extraction</h3>
+<ul>
+  <li>Claims extracted and structured from Chomsky’s essay</li>
+  <li>20 distinct claims identified across 8 categories</li>
+  <li>Each claim includes keywords, context, and expected document types</li>
+</ul>
+
+<h3 id="document-search">Document Search</h3>
+<ul>
+  <li>Automated web scraping of Harvard’s Nuremberg Trials Project website</li>
+  <li>Rate-limited requests to respect server resources</li>
+  <li>Document caching for offline analysis</li>
+  <li>Specialized search functions for specific claims</li>
+</ul>
+
+<h3 id="verification-process">Verification Process</h3>
+<ul>
+  <li>Documents searched for relevance to each claim</li>
+  <li>Evidence excerpts extracted (supporting and contradicting)</li>
+  <li>Confidence scoring based on evidence strength</li>
+  <li>Status determination: Verified, Partially Verified, Contradicted, or Not Found</li>
+</ul>
+
+<h3 id="source-verification">Source Verification</h3>
+<ul>
+  <li>All URLs tested and confirmed accessible</li>
+  <li>110 unique base URLs verified</li>
+  <li>No hallucinations - only verified sources cited</li>
+  <li>Complete citation list maintained</li>
+</ul>
+
+<h2 id="results-summary">Results Summary</h2>
+
+<ul>
+  <li><strong>Total Claims Analyzed:</strong> 20</li>
+  <li><strong>Verified:</strong> 11 claims (55%)</li>
+  <li><strong>Not Found:</strong> 9 claims (45%)</li>
+  <li><strong>Contradicted:</strong> 0 claims (0%)</li>
+  <li><strong>Average Confidence:</strong> 54.0%</li>
+</ul>
+
+<h2 id="limitations">Limitations</h2>
+
+<ol>
+  <li><strong>Tokyo Trials Coverage:</strong> The Harvard collection appears to have stronger coverage of Nuremberg (IMT) trials than Tokyo Trials (IMTFE)</li>
+  <li><strong>Direct Library Access:</strong> Some documents (e.g., Justice Pal’s dissent) may require physical library access</li>
+  <li><strong>External Sources:</strong> Some claims require external sources (e.g., Telford Taylor’s “Nuremberg and Vietnam”)</li>
+  <li><strong>Automated Analysis:</strong> This is an automated tool - full verification may require manual review</li>
+</ol>
+
+<h2 id="source">Source</h2>
+
+<p><strong>Primary Source:</strong> <a href="https://nuremberg.law.harvard.edu/">Harvard Law School Library’s Nuremberg Trials Project</a></p>
+
+<p>The Harvard collection includes:</p>
+<ul>
+  <li>Trial transcripts (IMT and NMT trials)</li>
+  <li>Document books and exhibits</li>
+  <li>Evidence files</li>
+  <li>Photographs</li>
+  <li>Searchable full-text versions</li>
+</ul>
+
+<h2 id="analysis-tool">Analysis Tool</h2>
+
+<p>The project includes a comprehensive Python analysis tool located in <code class="language-plaintext highlighter-rouge">nuremberg_analysis/</code>:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">chomsky_claims.py</code> - Claim extraction and structuring</li>
+  <li><code class="language-plaintext highlighter-rouge">document_scraper.py</code> - Web scraper for Harvard website</li>
+  <li><code class="language-plaintext highlighter-rouge">claim_verifier.py</code> - Verification logic</li>
+  <li><code class="language-plaintext highlighter-rouge">report_generator.py</code> - Report generation</li>
+  <li><code class="language-plaintext highlighter-rouge">main.py</code> - Command-line interface</li>
+</ul>
+
+<p>See the <a href="/analysis">Analysis</a> page for usage instructions.</p>
+
+<h2 id="contact">Contact</h2>
+
+<p><strong>Author:</strong> Alex J Lennon<br />
+<strong>Email:</strong> ajlennon@dynamicdevices.co.uk<br />
+<strong>Analysis Date:</strong> November 20, 2025</p>
+
+<h2 id="disclaimer">Disclaimer</h2>
+
+<p>This analysis is based on publicly available documents from the Harvard Law School Library’s Nuremberg Trials Project. Users should verify all claims by consulting original documents and additional academic sources.</p>
+
+<p>The tool analyzes historical documents related to war crimes trials. Documents may contain graphic descriptions of violence and genocide. The tool should be used responsibly, and automated analysis has limitations.</p>
+
+
+    </div>
+</article>
+
+
+    </main>
+    
+    <footer class="site-footer">
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <h2 class="footer-heading">Chomsky Nuremberg Analysis</h2>
+                <p class="text">Verification of Noam Chomsky's essay 'If the Nuremberg Laws were Applied...' against documents from the Harvard Law School Library's Nuremberg Trials Project</p>
+            </div>
+            
+            <div class="footer-col footer-col-2">
+                <h2 class="footer-heading">Navigation</h2>
+                <ul class="social-media-list">
+                    <li><a href="/chomsky-nuremburg-analysis/">Home</a></li>
+                    <li><a href="/chomsky-nuremburg-analysis/analysis">Analysis</a></li>
+                    <li><a href="/chomsky-nuremburg-analysis/reports">Reports</a></li>
+                    <li><a href="/chomsky-nuremburg-analysis/about">About</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col footer-col-3">
+                <h2 class="footer-heading">Source</h2>
+                <p class="text">
+                    <a href="https://nuremberg.law.harvard.edu/" target="_blank" rel="noopener noreferrer">
+                        Harvard Law School Library's Nuremberg Trials Project
+                    </a>
+                </p>
+                <p class="text">
+                    <small>Analysis Date: November 20, 2025</small>
+                </p>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p class="text">
+                <small>
+                    Generated with Jekyll | 
+                    <a href="https://github.com/ajlennon/chomsky-nuremburg-analysis" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+                </small>
+            </p>
+        </div>
+    </div>
+</footer>
+
+
+    
+    <script src="/chomsky-nuremburg-analysis/assets/js/main.js"></script>
+</body>
+</html>
+
