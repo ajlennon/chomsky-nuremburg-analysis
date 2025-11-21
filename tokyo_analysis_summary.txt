@@ -1,0 +1,238 @@
+TOKYO TRIALS ANALYSIS SUMMARY
+================================================================================
+
+Claims analyzed: 9
+Total documents found: 21
+
+CLAIMS:
+
+yamashita_001: Tokyo Trials - General Yamashita
+  General Yamashita was hanged on the grounds that troops in the Philippines, which were technically under his command (though it was so late in the war that he had no contact with them), had carried out atrocities
+
+pal_001: Tokyo Trials - Justice Pal Dissent
+  Radhabinod Pal was the one authentic, independent Asian justice at the Tokyo tribunal, and also the one person in the court who had any background in international law
+
+pal_002: Tokyo Trials - Justice Pal Dissent
+  Pal dissented from the whole judgment, dissented from the whole thing. He wrote a very interesting and important dissent, seven hundred pages
+
+pal_003: Tokyo Trials - Justice Pal Dissent
+  Pal's dissent can be found in the Harvard Law Library
+
+pal_004: Tokyo Trials - Justice Pal Dissent
+  Pal ends up by saying something like this: if there is any crime in the Pacific theater that compares with the crimes of the Nazis, for which they're being hanged at Nuremberg, it was the dropping of the two atom bombs
+
+pal_005: Tokyo Trials - Justice Pal Dissent
+  Pal says nothing of that sort can be attributed to the present accused
+
+tokyo_001: Tokyo Trials - General Assessment
+  The Tokyo tribunal was in many ways farcical. The people condemned at Tokyo had done things for which plenty of people on the other side could be condemned
+
+tokyo_002: Tokyo Trials - General Assessment
+  Many of their worst atrocities the U.S. didn't care about. Like some of the worst atrocities of the Japanese were in the late '30s, but the U.S. didn't especially care about that. What the U.S. cared about was that Japan was moving to close off the China market
+
+tokyo_003: Tokyo Trials - General Assessment
+  The slaughter of a couple of hundred thousand people or whatever they did in Nanking. That's not a big deal
+
+
+DOCUMENTS FOUND:
+
+Pal, Radha Binod - Judge Profile
+  Source: tokyotrial.cn
+  Type: Profile
+  URL: http://tokyotrial.cn/Person/Index/7cf1a279c0964d1cad5f160f69768cf8
+  Content length: 1313 characters
+
+【图书】帕尔博士的日本无罪论
+  Source: tokyotrial.cn
+  Type: Book/Research Material
+  URL: http://tokyotrial.cn/Book/index/fe3e7efe1e2646288df98976c646cd4d
+  Content length: 1238 characters
+
+【图书】帕尔法官——东京审判批判和绝对和平主义
+  Source: tokyotrial.cn
+  Type: Book/Research Material
+  URL: http://tokyotrial.cn/Book/index/aef5f4369cd04f55b7d7f650b47ce9b2
+  Content length: 1031 characters
+
+【图书】帕尔——印度·民族主义和东京审判
+  Source: tokyotrial.cn
+  Type: Book/Research Material
+  URL: http://tokyotrial.cn/Book/index/18bcf713495446f28d1dfb12bfdc43f7
+  Content length: 1138 characters
+
+【图书】远东国际军事法庭: 法官帕尔的异议判决书
+  Source: tokyotrial.cn
+  Type: Book/Research Material
+  URL: http://tokyotrial.cn/Book/index/ca13b4bfa05b4525bce7d081d68e82a4
+  Content length: 657 characters
+
+1946-04-29
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=ae7b9676-ed63-456b-b40c-6b2245ea&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+The United States of AmericaThe Republic of ChinaThe United Kingdom of Great Britain and Northern IrelandThe Union of Soviet Socialist RepublicsThe Commonwealth of AustraliaCanadaThe Republic of FranceThe Kingdom of the NetherlandsNew ZealandIndiaThe Commonwealth of the PhilippinesARAKI, SadaoDOHIHARA, KenjiHASHIMOTO, KingoroHATA, ShunrokuHIRANUMA, KiichiroHIROTA, KokiHOSHINO, NaokiITAGAKI, Seishi...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=ae7b9676-ed63-456b-b40c-6b2245ea&type=0&YearTableDoi=&sn=
+
+1946-05-03
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=d02286f9-711b-40c9-b077-45f4712b&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+The United States of AmericaThe Republic of ChinaThe United Kingdom of Great Britain and Northern IrelandThe Union of Soviet Socialist RepublicsThe Commonwealth of AustraliaCanadaThe Republic of FranceThe Kingdom of the NetherlandsNew ZealandIndiaThe Commonwealth of the PhilippinesARAKI, SadaoDOHIHARA, KenjiHASHIMOTO, KingoroHATA, ShunrokuHIRANUMA, KiichiroHIROTA, KokiHOSHINO, NaokiITAGAKI, Seishi...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=d02286f9-711b-40c9-b077-45f4712b&type=0&YearTableDoi=&sn=
+
+1946-05-04
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=913e4438-9eff-4e73-acb7-c2f04fd1&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Saturday, 4 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanThe Tribunal met, pursuant to adjournment, at 0930.English to Japanese interpretation was made by K. Hayashi of statements by the President and of statements from the floor.The International Military Tribunal for the Far East is in session and is ready to hear any matter brought before it.This morning, in Chambers, ...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=913e4438-9eff-4e73-acb7-c2f04fd1&type=0&YearTableDoi=&sn=
+
+1946-05-06
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=64c2f6c2-6670-4e1c-bbb4-5ae3348a&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Monday, 6 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanMIYAKE, Shotaro, Counsel for AccusedUMEZU, YoshijiroOKAMOTO, Shuichi, Counsel for AccusedMUTO, AkiraSAMMONJI, Shohei, Counsel for AccusedKOISO, KuniakiSHIOHARA, Tokisaburo, Counsel for AccusedKIMURA, HeitaroYAMADA, Hanzo, Counsel for AccusedITAGAKI, SeishiroKIYOSE, Ichiro, Counsel for AccusedTOJO, HidekiSATO, KenryoTh...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=64c2f6c2-6670-4e1c-bbb4-5ae3348a&type=0&YearTableDoi=&sn=
+
+1946-05-13
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=8956389a-b702-4675-bef5-c26d66bd&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Monday,13 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanThe Tribunal met, pursuant to adjournment, at 0935.English to Japanese and Japanese to English interpretation was made by SHIMANOUCHI, Toshiro of statements from the floor, and English to Japanese interpretation was made by MORI, Tomio of statements by the President, Akira Itami acting as Monitor.The International Mil...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=8956389a-b702-4675-bef5-c26d66bd&type=0&YearTableDoi=&sn=
+
+1946-05-14
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=3ac4f2ab-3440-4820-9518-070db1dd&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Tuesday, 14 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanMAJOR BEN BRUCE BLAKENEY, AC, Counsel for Accused UMEZU, YoshijiroCAPTAIN SAMUEL J. KLEIMAN, AC, Counsel for Accused HIRANUMA, KiichiroCAPTAIN GEORGE A. FURNESS, AC, Counsel for Accused SHIGEMITSU, Mamoru and MUTO, AkiraMR. GEORGE YAMAOKA, Counsel for Accused TOGO, ShigenoriThe Tribunal met, pursuant to adjournment,...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=3ac4f2ab-3440-4820-9518-070db1dd&type=0&YearTableDoi=&sn=
+
+1946-05-15
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=8da8778f-a095-4555-a6c6-fae1c621&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Wednesday, 15 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanMR. JUSTICE W. G. F. BORGERHOFF-MULDER, Associate Counsel, acting on behalf of the Kingdom of the NetherlandsCOLONEL S. Y. ROSENBLITT, Assist- ant to the Associate Counsel acting on behalf of the Union of Soviet Socialist RepublicsThe Tribunal met, pursuant to adjournment, at 0930.English to Japanese and Japanese ...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=8da8778f-a095-4555-a6c6-fae1c621&type=0&YearTableDoi=&sn=
+
+1946-05-17
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=e2e12e4f-e060-4ca5-9acf-e20fb6aa&type=0&YearTableDoi=&sn=
+  Content length: 338 characters
+
+Friday, 17 May, 1946Court House of the Tribunal War Ministry Building Tokyo, JapanThe Tribunal met, pursuant to adjournment, at 1003.English to Japanese interpretation was made by MOTONO, Seiichi of statements from the floor and by IWAMOTO, Masahito of the President's statements, Lanny Miyamoto acting as Monitor.We have with us this morning the Honorable Mr. Justice Pal, the representative of ...
+  Source: tokyotrial.cn
+  Type: Trial Transcript
+  URL: http://tokyotrial.cn/knreader/xmlread.aspx?doi=e2e12e4f-e060-4ca5-9acf-e20fb6aa&type=0&YearTableDoi=&sn=
+
+
+VERIFICATION RESULTS:
+
+yamashita_001: Tokyo Trials - General Yamashita
+  Status: not_found
+  Confidence: 0.0%
+  Supporting evidence: 0 excerpts
+  Notes: Yamashita was tried separately from Tokyo Trials - may require separate archive search.
+
+pal_001: Tokyo Trials - Justice Pal Dissent
+  Status: partially_verified
+  Confidence: 50.0%
+  Supporting evidence: 2 excerpts
+  Notes: Found 2 supporting evidence excerpts. Pal's dissent document may require full text access for complete verification.
+  First excerpt: 主页
+收藏
+登录
+Lang:
+中文版
+English
+日本語版
+首页
+人物
+帕尔,拉达宾诺德
+帕尔,拉达宾诺德
+英文名（译）：
+PAL,Radha Binod
+身　　份：
+法官(印度)
+简介
+印度法官。
+1888
+年
+1
+月生于孟加拉邦拉第亚区乡村。童年家境艰难，靠政府助学金于
+1907
+年在加尔各答大学毕业，数学课程获优异奖。
+1908
+年在本校获得数学硕士，旋即入里本法科大学学习法律，
+190...
+
+pal_002: Tokyo Trials - Justice Pal Dissent
+  Status: contradicted
+  Confidence: 30.0%
+  Supporting evidence: 0 excerpts
+  Notes: Found 2 contradicting evidence excerpts. Pal's dissent document may require full text access for complete verification.
+
+pal_003: Tokyo Trials - Justice Pal Dissent
+  Status: contradicted
+  Confidence: 30.0%
+  Supporting evidence: 0 excerpts
+  Notes: Found 2 contradicting evidence excerpts. Pal's dissent document may require full text access for complete verification.
+
+pal_004: Tokyo Trials - Justice Pal Dissent
+  Status: contradicted
+  Confidence: 30.0%
+  Supporting evidence: 0 excerpts
+  Notes: Found 2 contradicting evidence excerpts. Pal's dissent document may require full text access for complete verification.
+
+pal_005: Tokyo Trials - Justice Pal Dissent
+  Status: contradicted
+  Confidence: 30.0%
+  Supporting evidence: 0 excerpts
+  Notes: Found 2 contradicting evidence excerpts. Pal's dissent document may require full text access for complete verification.
+
+tokyo_001: Tokyo Trials - General Assessment
+  Status: not_found
+  Confidence: 0.0%
+  Supporting evidence: 0 excerpts
+  Notes: No relevant evidence found in available documents.
+
+tokyo_002: Tokyo Trials - General Assessment
+  Status: not_found
+  Confidence: 0.0%
+  Supporting evidence: 0 excerpts
+  Notes: No relevant evidence found in available documents.
+
+tokyo_003: Tokyo Trials - General Assessment
+  Status: not_found
+  Confidence: 0.0%
+  Supporting evidence: 0 excerpts
+  Notes: No relevant evidence found in available documents.
