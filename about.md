@@ -8,6 +8,8 @@ permalink: /about/
 
 This project analyzes and verifies claims made in Noam Chomsky's essay "If the Nuremberg Laws were Applied..." against documents from the Harvard Law School Library's Nuremberg Trials Project.
 
+**Scope:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed in this work.
+
 ## Methodology
 
 ### Claim Extraction
@@ -41,12 +43,17 @@ This project analyzes and verifies claims made in Noam Chomsky's essay "If the N
 - **Contradicted:** 0 claims (0%)
 - **Average Confidence:** 54.0%
 
-## Limitations
+## Scope and Limitations
 
-1. **Tokyo Trials Coverage:** The Harvard collection appears to have stronger coverage of Nuremberg (IMT) trials than Tokyo Trials (IMTFE)
-2. **Direct Library Access:** Some documents (e.g., Justice Pal's dissent) may require physical library access
-3. **External Sources:** Some claims require external sources (e.g., Telford Taylor's "Nuremberg and Vietnam")
-4. **Automated Analysis:** This is an automated tool - full verification may require manual review
+### Scope
+- **In Scope:** Claims relating to the Nuremberg Trials (IMT and NMT trials)
+- **Out of Scope:** Claims relating to Tokyo Trials (IMTFE) - these are not reviewed in this analysis
+
+### Limitations
+
+1. **Collection Scope:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. This analysis therefore focuses exclusively on Nuremberg Trials claims.
+2. **External Sources:** Some claims require external sources (e.g., Telford Taylor's "Nuremberg and Vietnam")
+3. **Automated Analysis:** This is an automated tool - full verification may require manual review
 
 ## Source
 

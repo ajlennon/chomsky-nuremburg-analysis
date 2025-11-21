@@ -98,27 +98,27 @@ order: 8
 - **Evidence:** 88 supporting excerpts found
 - **Significance:** Evidence supports Chomsky's characterization of US attitude
 
-### 🔍 Claims Not Found (Insufficient Evidence)
+### 📋 Out of Scope: Tokyo Trials Claims (9 claims)
 
-#### Tokyo Trials Claims (9 claims)
-These claims require Tokyo Trials documents, which appear to be less well-indexed in the Harvard collection:
+**Important:** Claims relating to Tokyo Trials are **out of scope** for this analysis. This work focuses exclusively on Nuremberg Trials claims.
+
+The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While Chomsky's essay discusses Tokyo Trials, those claims are not reviewed in this analysis.
+
+The following Tokyo Trials claims were identified in Chomsky's essay but are not analyzed:
 
 1. **General Yamashita Case** (1 claim)
    - Claim about Yamashita being hanged for atrocities by troops he had no contact with
-   - **Status:** Not Found
-   - **Note:** Requires Tokyo Trial documents, may need manual search
+   - **Status:** Out of Scope
 
 2. **Justice Pal Dissent** (5 claims)
    - Claims about Pal being independent Asian justice
    - Claims about Pal's 700-page dissent
    - Claims about Pal comparing atom bombs to Nazi crimes
-   - **Status:** Not Found
-   - **Note:** Pal's dissent is mentioned by Chomsky as being in Harvard Law Library - may require direct library access or different search approach
+   - **Status:** Out of Scope
 
-3. **Tokyo Tribunal Assessment** (2 claims)
+3. **Tokyo Tribunal Assessment** (3 claims)
    - Claims about Tokyo Tribunal being "farcical"
-   - **Status:** Not Found (1 claim) / Verified (2 claims)
-   - **Note:** Some Tokyo-related claims found, but specific "farcical" assessment not found
+   - **Status:** Out of Scope
 
 4. **Admiral Gernetz/Nimitz Case** (1 claim)
    - Claim about Gernetz case where Nimitz testified
@@ -139,13 +139,16 @@ These claims require Tokyo Trials documents, which appear to be less well-indexe
 3. **No Contradictions:** No claims were contradicted by evidence
 4. **Clear Patterns:** Verified claims show consistent patterns supporting Chomsky's arguments
 
-### Limitations
+### Scope and Limitations
 
-1. **Tokyo Trials Coverage:** **Critical Finding:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While searches for "Tokyo Trials" return 74 results, these are all references in Nuremberg documents (marked as "Trial: Unknown"), not actual Tokyo Trial materials. Tokyo Trials documents would need to be searched in other repositories.
-2. **Document Access:** Some documents may require direct library access (e.g., Pal's dissent may be in physical holdings not digitized)
-3. **Search Limitations:** Website search may not capture all relevant documents
-4. **External Sources:** Some claims require sources outside Nuremberg documents (e.g., Telford Taylor's book)
-5. **Collection Scope:** The analysis was limited to Harvard's Nuremberg collection - Tokyo Trials claims require alternative sources
+**Scope:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed.
+
+**Limitations:**
+
+1. **Collection Scope:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. This analysis therefore focuses exclusively on Nuremberg Trials claims.
+2. **Search Limitations:** Website search may not capture all relevant documents
+3. **External Sources:** Some claims require sources outside Nuremberg documents (e.g., Telford Taylor's book)
+4. **Automated Analysis:** This is an automated tool - full verification may require manual review
 
 ### Recommendations
 

@@ -9,6 +9,12 @@ order: 1
 
 **For General Readers**
 
+## Scope of This Analysis
+
+**Important:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **out of scope** and are not reviewed in this work.
+
+While Chomsky's essay discusses both Nuremberg and Tokyo Trials, this analysis verifies only those claims relating to the Nuremberg Trials, using documents from the Harvard Law School Library's Nuremberg Trials Project collection.
+
 ## About Chomsky's Original Work
 
 This analysis verifies claims from Noam Chomsky's essay **"If the Nuremberg Laws were Applied..."** which was originally delivered around **1990**. In this essay, Chomsky presents a critical analysis of the Nuremberg and Tokyo Trials, arguing that they employed selective standards in determining war crimes.
@@ -17,9 +23,9 @@ This analysis verifies claims from Noam Chomsky's essay **"If the Nuremberg Laws
 
 ## What This Analysis Does
 
-This analysis checks whether Noam Chomsky's claims about the Nuremberg Trials are supported by actual historical documents from Harvard Law School's collection of trial records.
+This analysis checks whether Noam Chomsky's claims about the **Nuremberg Trials** are supported by actual historical documents from Harvard Law School's collection of trial records.
 
-**Think of it like fact-checking:** We took Chomsky's essay, found the original trial documents, and checked if what he says matches what's in the records.
+**Think of it like fact-checking:** We took Chomsky's essay, extracted claims relating to the Nuremberg Trials, found the original trial documents, and checked if what he says matches what's in the records.
 
 ---
 
@@ -107,37 +113,11 @@ Normally, you can't be punished for something that wasn't illegal when you did i
 
 ---
 
-### 5. Tokyo Trials - General Yamashita 🔍 NOT FOUND
+### 5. Tokyo Trials Claims - OUT OF SCOPE
 
-**What Chomsky Says:**
-General Yamashita was hanged for atrocities committed by troops he had no contact with.
+**Note:** Claims relating to Tokyo Trials (including General Yamashita and Justice Pal's dissent) are **out of scope** for this analysis. This work focuses exclusively on Nuremberg Trials claims.
 
-**What We Found:**
-- **Important Discovery:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents
-- While the collection mentions "Tokyo Trials" in some Nuremberg documents (74 search results), these are just references, not actual Tokyo Trial materials
-- Yamashita is mentioned in 33 Nuremberg documents, but these are references, not the actual Tokyo Trial case documents
-- Tokyo Trials documents would need to be searched in other repositories (e.g., Library of Congress, National Archives, or published sources)
-- Historical sources confirm Yamashita was executed
-
-**Why It Matters:**
-This case established "command responsibility" - leaders responsible for their troops' actions.
-
----
-
-### 6. Justice Pal's Dissent 🔍 NOT FOUND
-
-**What Chomsky Says:**
-An Indian judge (Pal) wrote a 700-page dissent saying the atom bombs were comparable to Nazi crimes.
-
-**What We Found:**
-- **Important Discovery:** The Harvard collection contains **zero documents** mentioning Radhabinod Pal
-- The Harvard Law School Library's Nuremberg Trials Project is **Nuremberg-only** - it does not contain Tokyo Trials documents
-- Pal's dissent would be in Tokyo Trial materials, which are not part of this collection
-- Chomsky mentions Pal's dissent is in Harvard Law Library - this may refer to physical holdings not digitized in the online collection, or may require checking other Harvard collections
-- Historical sources confirm Pal wrote a dissent
-
-**Why It Matters:**
-A judge at the trials compared Allied actions (atom bombs) to Nazi crimes.
+The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While Chomsky's essay discusses Tokyo Trials, those claims are not reviewed in this analysis.
 
 ---
 
