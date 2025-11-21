@@ -141,10 +141,11 @@ These claims require Tokyo Trials documents, which appear to be less well-indexe
 
 ### Limitations
 
-1. **Tokyo Trials Coverage:** Harvard collection appears stronger on Nuremberg than Tokyo Trials
-2. **Document Access:** Some documents may require direct library access (e.g., Pal's dissent)
+1. **Tokyo Trials Coverage:** **Critical Finding:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While searches for "Tokyo Trials" return 74 results, these are all references in Nuremberg documents (marked as "Trial: Unknown"), not actual Tokyo Trial materials. Tokyo Trials documents would need to be searched in other repositories.
+2. **Document Access:** Some documents may require direct library access (e.g., Pal's dissent may be in physical holdings not digitized)
 3. **Search Limitations:** Website search may not capture all relevant documents
 4. **External Sources:** Some claims require sources outside Nuremberg documents (e.g., Telford Taylor's book)
+5. **Collection Scope:** The analysis was limited to Harvard's Nuremberg collection - Tokyo Trials claims require alternative sources
 
 ### Recommendations
 

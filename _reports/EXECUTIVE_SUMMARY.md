@@ -113,8 +113,10 @@ Normally, you can't be punished for something that wasn't illegal when you did i
 General Yamashita was hanged for atrocities committed by troops he had no contact with.
 
 **What We Found:**
-- Documents not found in online collection
-- May require library access
+- **Important Discovery:** The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents
+- While the collection mentions "Tokyo Trials" in some Nuremberg documents (74 search results), these are just references, not actual Tokyo Trial materials
+- Yamashita is mentioned in 33 Nuremberg documents, but these are references, not the actual Tokyo Trial case documents
+- Tokyo Trials documents would need to be searched in other repositories (e.g., Library of Congress, National Archives, or published sources)
 - Historical sources confirm Yamashita was executed
 
 **Why It Matters:**
@@ -128,8 +130,10 @@ This case established "command responsibility" - leaders responsible for their t
 An Indian judge (Pal) wrote a 700-page dissent saying the atom bombs were comparable to Nazi crimes.
 
 **What We Found:**
-- Pal's dissent not found online
-- Chomsky says it's in Harvard Law Library (may need physical access)
+- **Important Discovery:** The Harvard collection contains **zero documents** mentioning Radhabinod Pal
+- The Harvard Law School Library's Nuremberg Trials Project is **Nuremberg-only** - it does not contain Tokyo Trials documents
+- Pal's dissent would be in Tokyo Trial materials, which are not part of this collection
+- Chomsky mentions Pal's dissent is in Harvard Law Library - this may refer to physical holdings not digitized in the online collection, or may require checking other Harvard collections
 - Historical sources confirm Pal wrote a dissent
 
 **Why It Matters:**
