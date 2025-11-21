@@ -6,14 +6,12 @@ permalink: /about/
 
 ## Background and Motivation
 
-This project began from a long-standing personal interest in Noam Chomsky's academic approach to geopolitics and power. I discovered Chomsky's work decades ago and have been deeply engaged with his analysis of international relations, media, and political systems.
+I discovered Chomsky's work decades ago and have long been interested in his academic approach to geopolitics and power. His essay ["If the Nuremberg Laws were Applied..."](https://chomsky.info/1990____-2/) particularly interested me, and I have always wondered how accurate his claims were.
 
-Chomsky's essay ["If the Nuremberg Laws were Applied..."](https://chomsky.info/1990____-2/) particularly captured my attention. His critical examination of the Nuremberg and Tokyo Trials raised important questions about selective justice, victors' justice, and the consistency of international law application. For years, I wondered: **How accurate are Chomsky's claims?** How well do they stand up to scrutiny against the actual trial documents?
+With the recent release of digitized archives and the emergence of AI agentic tools, I wanted to see what we could do in terms of an analysis. This project serves two purposes:
 
-With the recent release of digitized archives and the emergence of AI agentic tools, I saw an opportunity to explore this question systematically. This project serves two purposes:
-
-1. **Personal Understanding:** To verify Chomsky's claims against primary source documents and deepen my own understanding of these historical events
-2. **Tool Evaluation:** To explore how well modern AI agentic tools can assist in historical research, document analysis, and claim verification
+1. **Personal Understanding:** To verify Chomsky's claims against primary source documents
+2. **Tool Evaluation:** To explore how well modern AI agentic tools can assist in historical research and claim verification
 
 This analysis represents an experiment in using AI tools to conduct rigorous historical research - testing both the capabilities of these tools and the accuracy of Chomsky's historical claims.
 
