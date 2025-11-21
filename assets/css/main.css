@@ -114,6 +114,119 @@ body {
     opacity: 0.95;
 }
 
+/* Homepage Sections */
+.what-this-does,
+.big-picture {
+    margin-bottom: 3rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.what-this-does h2,
+.big-picture h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.chomsky-claim,
+.what-we-found {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: var(--light-bg);
+    border-radius: 8px;
+}
+
+.chomsky-claim h3,
+.what-we-found h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.chomsky-claim blockquote {
+    border-left: 4px solid var(--secondary-color);
+    padding-left: 1.5rem;
+    margin: 1.5rem 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+.chomsky-claim blockquote p {
+    margin: 0;
+}
+
+.key-finding {
+    font-size: 1.1rem;
+    padding: 1rem;
+    background: white;
+    border-left: 4px solid var(--success-color);
+    border-radius: 4px;
+    margin-top: 1rem;
+}
+
+.stat-detail {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 0.25rem;
+}
+
+.why-matters {
+    margin-top: 0.75rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* CTA Section */
+.cta-primary {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.cta-primary h2 {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.cta-primary .link-grid {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cta-primary .link-card {
+    background: white;
+    border: none;
+}
+
+.cta-primary .link-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.cta-text {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: var(--secondary-color);
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
 /* Summary Stats */
 .summary-stats {
     display: grid;
