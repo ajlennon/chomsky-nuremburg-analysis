@@ -9,7 +9,8 @@ order: 6
 
 ## An Academic Analysis of Claims Against Primary Source Documents
 
-**Author:** Analysis conducted using automated verification tools  
+**Author:** Alex J Lennon <ajlennon@gmail.com>  
+**With assistance from:** Cursor Composer 1  
 **Date:** November 2025  
 **Source:** Harvard Law School Library's Nuremberg Trials Project  
 **Methodology:** Document analysis, claim verification, evidence extraction

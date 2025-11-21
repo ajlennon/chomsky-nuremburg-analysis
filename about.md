@@ -91,8 +91,8 @@ See the [Analysis](/analysis) page for usage instructions.
 
 ## Contact
 
-**Author:** Alex J Lennon  
-**Email:** ajlennon@dynamicdevices.co.uk  
+**Author:** Alex J Lennon <ajlennon@gmail.com>  
+**With assistance from:** Cursor Composer 1  
 **Analysis Date:** November 20, 2025
 
 ## Disclaimer

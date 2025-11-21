@@ -195,5 +195,5 @@ The claims not found primarily relate to Tokyo Trials documents, which may requi
 
 ---
 
-**Note:** This analysis was generated with the assistance of Cursor.AI for user ajlennon (Alex J Lennon, ajlennon@dynamicdevices.co.uk). The analysis is based on publicly available documents from the Harvard Law School Library's Nuremberg Trials Project. Users should verify all claims by consulting original documents and additional academic sources.
+**Note:** This analysis was conducted by Alex J Lennon <ajlennon@gmail.com> with assistance from Cursor Composer 1. The analysis is based on publicly available documents from the Harvard Law School Library's Nuremberg Trials Project. Users should verify all claims by consulting original documents and additional academic sources.
 
