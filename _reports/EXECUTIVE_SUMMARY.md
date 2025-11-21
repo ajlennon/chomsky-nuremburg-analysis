@@ -131,6 +131,12 @@ Normally, you can't be punished for something that wasn't illegal when you did i
 
 The Harvard Law School Library's Nuremberg Trials Project collection is **Nuremberg-only** - it does not contain Tokyo Trials documents. While Chomsky's essay discusses Tokyo Trials, those claims cannot be verified using this archive because the materials are not part of this collection.
 
+**Note:** Tokyo Trials materials are available in other online archives, including:
+- [Tokyo Trial Database](http://tokyotrial.cn) - Shanghai Jiao Tong University Press (comprehensive database with trial records and evidence)
+- [University of Wisconsin-Madison Libraries](https://search.library.wisc.edu/database/UWI60168) - Full-text documents including transcripts and exhibits
+- [Japan Center for Asian Historical Records (JACAR)](https://www.jacar.go.jp/english/) - Complete digital transcripts of court proceedings
+- [Hoover Institution Library & Archives](https://oac.cdlib.org/findaid/ark:/13030/kt6b69q2rf) - Stanford University's IMTFE records
+
 ---
 
 ## Visual Summary
@@ -230,7 +236,12 @@ This raises questions about:
 
 - **Chomsky's Original Essay:** [https://chomsky.info/1990____-2/](https://chomsky.info/1990____-2/)
 - **Telford Taylor's Book:** "Nuremberg and Vietnam" (library)
-- **Harvard Collection:** https://nuremberg.law.harvard.edu/
+- **Harvard Collection (Nuremberg Trials):** https://nuremberg.law.harvard.edu/
+- **Tokyo Trials Archives (for reference):**
+  - [Tokyo Trial Database](http://tokyotrial.cn) - Shanghai Jiao Tong University Press
+  - [University of Wisconsin-Madison Libraries](https://search.library.wisc.edu/database/UWI60168)
+  - [Japan Center for Asian Historical Records (JACAR)](https://www.jacar.go.jp/english/)
+  - [Hoover Institution Library & Archives](https://oac.cdlib.org/findaid/ark:/13030/kt6b69q2rf)
 - **Academic Sources:** See bibliography in detailed analysis
 
 ---

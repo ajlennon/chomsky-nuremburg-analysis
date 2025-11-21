@@ -12,6 +12,8 @@ This project analyzes and verifies claims made in Noam Chomsky's essay ["If the 
 
 **Scope:** This analysis focuses exclusively on **Nuremberg Trials claims**. Tokyo Trials claims are **not reviewed** because there is **no available evidence in the Harvard archive we are using** - the collection contains only Nuremberg Trials documents, not Tokyo Trials materials.
 
+**Note:** Tokyo Trials materials are available in other online archives, including the [Tokyo Trial Database](http://tokyotrial.cn), [University of Wisconsin-Madison Libraries](https://search.library.wisc.edu/database/UWI60168), [Japan Center for Asian Historical Records (JACAR)](https://www.jacar.go.jp/english/), and the [Hoover Institution Library & Archives](https://oac.cdlib.org/findaid/ark:/13030/kt6b69q2rf).
+
 ## Methodology
 
 ### Claim Extraction
