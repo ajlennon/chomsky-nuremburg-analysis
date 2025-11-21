@@ -357,14 +357,14 @@ Pal, R. (1948). *International Military Tribunal for the Far East: Dissentient J
 See [Detailed Report]({{ '/reports/chomsky_verification_report_20251120_202811' | relative_url }}) for complete structured data.
 
 ### Appendix B: Verified URLs
-See [Verified URLs]({{ '/reports/verified_urls' | relative_url }}) for complete list of verified source documents.
+See [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) for complete list of verified source documents.
 
 ### Appendix C: Evidence Excerpts
-See [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED' | relative_url }}) for evidence excerpts with citations.
+See [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }}) for evidence excerpts with citations.
 
 ---
 
 **This academic paper format provides proper citation structure and scholarly analysis while maintaining accessibility.**
 
-**For general readers, see:** [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY' | relative_url }})  
-**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED' | relative_url }})
+**For general readers, see:** [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})  
+**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
