@@ -40,12 +40,38 @@ This analysis covers **9 Tokyo Trials claims** from Chomsky's essay:
 - **Note:** Full-text documents including transcripts and exhibits
 
 ### 3. Japan Center for Asian Historical Records (JACAR)
-- **Status:** ⏳ Not yet explored
-- **Note:** Complete digital transcripts of court proceedings
+- **Status:** ✅ **Explored** - Publicly accessible
+- **URL:** https://www.jacar.go.jp/english/
+- **Findings:** 
+  - Searchable database available
+  - No direct results for "Tokyo Trials Pal dissent" in English
+  - Database suggests related Japanese terms: "極東国際軍事裁判" (Tokyo Trials), "東京裁判" (Tokyo Trial), "インド代表判事" (Indian representative judge)
+  - May require Japanese language search terms for better results
+- **Note:** Complete digital transcripts of court proceedings from National Archives of Japan, Diplomatic Archives, and National Institute for Defense Studies
 
 ### 4. Hoover Institution Library & Archives
-- **Status:** ⏳ Not yet explored
-- **Note:** Stanford University's IMTFE records
+- **Status:** ⚠️ **Requires appointment**
+- **URL:** https://oac.cdlib.org/findaid/ark:/13030/kt6b69q2rf
+- **Note:** Stanford University's IMTFE records - materials must be requested in advance
+
+### 5. Additional Sources Found
+
+#### International Criminal Court Legal Tools Database
+- **Status:** ⚠️ **Needs verification**
+- **Note:** Reported to have free online access to Tokyo Trial transcripts, but actual database location needs confirmation
+
+#### National Archives of Japan Digital Archive
+- **Status:** ✅ **Publicly accessible**
+- **URL:** https://www.archives.go.jp/english/
+- **Note:** Can search and view images online, copies available for fee
+
+#### Marquette University Law Library
+- **Status:** ⚠️ **By appointment**
+- **Note:** 152-volume collection of Tokyo War Crimes Trials proceedings
+
+#### US National Archives (NARA)
+- **Status:** ⚠️ **Physical access or copy requests**
+- **Note:** Houses textual records including minutes and transcripts from Tokyo Trials
 
 ## Verification Results
 
@@ -193,6 +219,22 @@ This analysis covers **9 Tokyo Trials claims** from Chomsky's essay:
    - Create detailed verification reports once full documents accessed
    - Update website with complete findings
 
+## Additional Sources Explored
+
+### JACAR Search Results
+- **Search Terms:** "Tokyo Trials Pal dissent"
+- **Results:** No direct matches found
+- **Related Terms Suggested:** 
+  - "極東国際軍事裁判" (International Military Tribunal for the Far East)
+  - "東京裁判" (Tokyo Trial)
+  - "インド代表判事" (Indian representative judge)
+- **Recommendation:** Try searching with Japanese terms or search for "極東国際軍事裁判" directly
+
+### Additional Publicly Accessible Archives
+1. **National Archives of Japan Digital Archive** - Publicly accessible, searchable online
+2. **JACAR** - Publicly accessible, searchable database (may work better with Japanese terms)
+3. **US National Archives (NARA)** - Physical access or copy requests required
+
 ## Conclusion
 
 We have successfully:
@@ -200,10 +242,19 @@ We have successfully:
 - ✅ Found references to Pal's dissenting judgment document
 - ✅ Created analysis framework for Tokyo Trials verification
 - ✅ Identified key documents for further investigation
+- ✅ Explored JACAR database (publicly accessible)
+- ✅ Documented additional publicly available
 
-**Status:** Analysis framework complete, awaiting full document access for complete verification.
+**Status:** Analysis framework complete. Partial verification achieved with publicly available resources. Full verification of specific claims (700-page dissent, atom bomb comparison) requires:
+- Access to full text of Pal's dissent document (may require subscription or library access)
+- Search of JACAR using Japanese terms
+- Access to subscription databases or physical archives
 
-**Recommendation:** Proceed with accessing full document content (subscription or library access) to complete verification of Pal's dissent claims and search for Yamashita trial records separately.
+**Recommendation:** 
+1. Try searching JACAR with Japanese terms: "極東国際軍事裁判" and "パル" (Pal)
+2. Access National Archives of Japan Digital Archive for additional materials
+3. Consider subscription access to Tokyo Trial Database or University of Wisconsin database for full document content
+4. Search for Yamashita trial records separately (US National Archives or military archives)
 
 ---
 
