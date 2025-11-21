@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 ---
 
+## Background and Motivation
+
+This project began from a long-standing personal interest in Noam Chomsky's academic approach to geopolitics and power. I discovered Chomsky's work decades ago and have been deeply engaged with his analysis of international relations, media, and political systems.
+
+Chomsky's essay ["If the Nuremberg Laws were Applied..."](https://chomsky.info/1990____-2/) particularly captured my attention. His critical examination of the Nuremberg and Tokyo Trials raised important questions about selective justice, victors' justice, and the consistency of international law application. For years, I wondered: **How accurate are Chomsky's claims?** How well do they stand up to scrutiny against the actual trial documents?
+
+With the recent release of digitized archives and the emergence of AI agentic tools, I saw an opportunity to explore this question systematically. This project serves two purposes:
+
+1. **Personal Understanding:** To verify Chomsky's claims against primary source documents and deepen my own understanding of these historical events
+2. **Tool Evaluation:** To explore how well modern AI agentic tools can assist in historical research, document analysis, and claim verification
+
+This analysis represents an experiment in using AI tools to conduct rigorous historical research - testing both the capabilities of these tools and the accuracy of Chomsky's historical claims.
+
 ## Project Overview
 
 This project analyzes and verifies claims made in Noam Chomsky's essay ["If the Nuremberg Laws were Applied..."](https://chomsky.info/1990____-2/) (delivered around 1990) against documents from the Harvard Law School Library's Nuremberg Trials Project.
@@ -88,6 +101,15 @@ The project includes a comprehensive Python analysis tool located in `nuremberg_
 - `claim_verifier.py` - Verification logic
 - `report_generator.py` - Report generation
 - `main.py` - Command-line interface
+- `tokyo_scraper.py` - Tokyo Trials document scraper
+- `tokyo_verifier.py` - Tokyo Trials claim verification
+- `tokyo_main.py` - Tokyo Trials analysis script
+
+These tools were developed using AI agentic assistance (Cursor Composer 1) to automate the process of:
+- Extracting and structuring claims from Chomsky's essay
+- Searching and scraping relevant documents from archives
+- Verifying claims against primary source evidence
+- Generating comprehensive reports with citations
 
 See the [Analysis](/analysis) page for usage instructions.
 
