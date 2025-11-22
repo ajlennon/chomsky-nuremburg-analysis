@@ -226,9 +226,9 @@ This raises questions about:
 ## How to Read the Full Analysis
 
 1. **For Quick Overview:** Read this Executive Summary
-2. **For Details:** Read [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
-3. **For Academic Use:** See [Academic Paper]({{ '/reports/academic-paper/' | relative_url }})
-4. **For Sources:** Check [Verified URLs]({{ '/reports/verified-urls/' | relative_url }}) for all source documents
+2. **For Details:** Read [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+3. **For Academic Use:** See [Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})
+4. **For Sources:** Check [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) for all source documents
 
 ---
 

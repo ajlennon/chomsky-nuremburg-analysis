@@ -12,26 +12,26 @@ This directory contains multiple versions of the Chomsky analysis, designed for 
 
 ### For General Readers (Start Here)
 
-**📄 [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})**
+**📄 [Executive Summary]({{ '/reports/executive-summary/' | relative_url }})**
 - Plain language explanations
 - Visual summaries
 - Key findings highlighted
 - No jargon, accessible to all
 - **Best for:** Understanding main points quickly
 
-**📚 [Glossary]({{ '/reports/GLOSSARY/' | relative_url }})**
+**📚 [Glossary]({{ '/reports/glossary/' | relative_url }})**
 - Definitions of legal and historical terms
 - Plain language explanations
 - Why terms matter
 - **Best for:** Understanding terminology
 
-**📅 [Timeline]({{ '/reports/TIMELINE/' | relative_url }})**
+**📅 [Timeline]({{ '/reports/timeline/' | relative_url }})**
 - Key dates and events
 - Historical context
 - Why timing matters
 - **Best for:** Understanding when things happened
 
-**👥 [Who's Who]({{ '/reports/WHO_IS_WHO/' | relative_url }})**
+**👥 [Who's Who]({{ '/reports/who-is-who/' | relative_url }})**
 - Key figures explained
 - Who they were and why they matter
 - Quick reference guide
@@ -39,14 +39,14 @@ This directory contains multiple versions of the Chomsky analysis, designed for 
 
 ### For Detailed Analysis
 
-**📖 [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})**
+**📖 [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})**
 - Complete annotated essay
 - All claims with verification status
 - Evidence excerpts and citations
 - Detailed commentary
 - **Best for:** Comprehensive understanding
 
-**📊 [Analysis Summary]({{ '/reports/ANALYSIS_SUMMARY/' | relative_url }})**
+**📊 [Analysis Summary]({{ '/reports/analysis-summary/' | relative_url }})**
 - Executive summary of findings
 - Key verified claims
 - Recommendations
@@ -54,7 +54,7 @@ This directory contains multiple versions of the Chomsky analysis, designed for 
 
 ### For Academic Use
 
-**🎓 [Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})**
+**🎓 [Academic Paper]({{ '/reports/academic-paper/' | relative_url }})**
 - Proper academic format
 - Methodology section
 - Literature review
@@ -63,7 +63,7 @@ This directory contains multiple versions of the Chomsky analysis, designed for 
 
 ### Visual Aids
 
-**📊 [Visual Summary]({{ '/reports/VISUAL_SUMMARY/' | relative_url }})**
+**📊 [Visual Summary]({{ '/reports/visual-summary/' | relative_url }})**
 - Charts and graphs
 - Quick statistics
 - Visual representations
@@ -79,13 +79,13 @@ This directory contains multiple versions of the Chomsky analysis, designed for 
 ### Path 2: Comprehensive Study
 1. [Executive Summary]({{ '/reports/executive-summary/' | relative_url }})
 2. [Glossary]({{ '/reports/glossary/' | relative_url }}) + [Timeline]({{ '/reports/timeline/' | relative_url }}) + [Who's Who]({{ '/reports/who-is-who/' | relative_url }})
-3. [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+3. [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
 4. [Academic Paper]({{ '/reports/academic-paper/' | relative_url }}) (for citations)
 
 ### Path 3: Academic Research
 1. [Academic Paper]({{ '/reports/academic-paper/' | relative_url }})
-2. [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
-3. [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) (for sources)
+2. [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
+3. [Verified URLs]({{ '/reports/verified-urls/' | relative_url }}) (for sources)
 4. [JSON Data]({{ '/reports/chomsky_verification_report_20251120_202811/' | relative_url }}) (for analysis)
 
 ## Key Statistics

@@ -12,7 +12,7 @@ Browse all analysis documents organized by category and purpose.
 
 ### Start Here
 
-**[Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})**
+**[Executive Summary]({{ '/reports/executive-summary/' | relative_url }})**
 - Plain language overview
 - Key findings highlighted
 - Visual summaries
@@ -20,22 +20,22 @@ Browse all analysis documents organized by category and purpose.
 
 ### Supporting Materials
 
-**[Glossary]({{ '/reports/GLOSSARY/' | relative_url }})**
+**[Glossary]({{ '/reports/glossary/' | relative_url }})**
 - Legal and historical terms explained
 - Plain language definitions
 - Examples and context
 
-**[Timeline]({{ '/reports/TIMELINE/' | relative_url }})**
+**[Timeline]({{ '/reports/timeline/' | relative_url }})**
 - Key dates and events
 - Historical context
 - Why timing matters
 
-**[Who's Who]({{ '/reports/WHO_IS_WHO/' | relative_url }})**
+**[Who's Who]({{ '/reports/who-is-who/' | relative_url }})**
 - Key figures explained
 - Their roles and importance
 - Connection to claims
 
-**[Visual Summary]({{ '/reports/VISUAL_SUMMARY/' | relative_url }})**
+**[Visual Summary]({{ '/reports/visual-summary/' | relative_url }})**
 - Charts and graphs
 - Quick statistics
 - Visual representations
@@ -44,13 +44,13 @@ Browse all analysis documents organized by category and purpose.
 
 ## 📚 Detailed Analysis
 
-**[Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})**
+**[Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})**
 - Complete annotated essay
 - All claims with verification status
 - Evidence excerpts and citations
 - Detailed commentary
 
-**[Analysis Summary]({{ '/reports/ANALYSIS_SUMMARY/' | relative_url }})**
+**[Analysis Summary]({{ '/reports/analysis-summary/' | relative_url }})**
 - Executive summary of findings
 - Key verified claims
 - Recommendations
@@ -64,7 +64,7 @@ Browse all analysis documents organized by category and purpose.
 
 ## 🌏 Tokyo Trials Analysis
 
-**[Tokyo Trials Analysis]({{ '/reports/TOKYO_TRIALS_ANALYSIS/' | relative_url }})**
+**[Tokyo Trials Analysis]({{ '/reports/tokyo-trials-analysis/' | relative_url }})**
 - Analysis of Chomsky's Tokyo Trials claims
 - Pal's dissent verification
 - Yamashita case investigation
@@ -77,7 +77,7 @@ Browse all analysis documents organized by category and purpose.
 
 ## 🎓 Academic Use
 
-**[Academic Paper]({{ '/reports/ACADEMIC_PAPER/' | relative_url }})**
+**[Academic Paper]({{ '/reports/academic-paper/' | relative_url }})**
 - Proper academic format
 - Methodology section
 - Literature review
@@ -88,7 +88,7 @@ Browse all analysis documents organized by category and purpose.
 
 ## 📊 Data Files
 
-**[Verified URLs]({{ '/reports/verified_urls/' | relative_url }})**
+**[Verified URLs]({{ '/reports/verified-urls/' | relative_url }})**
 - List of 110 verified source URLs
 - All citations verified to exist
 - Direct links to Harvard documents
@@ -109,12 +109,12 @@ Browse all analysis documents organized by category and purpose.
 ### Comprehensive Study (2-3 hours)
 1. [Executive Summary]({{ '/reports/executive-summary/' | relative_url }})
 2. [Glossary]({{ '/reports/glossary/' | relative_url }}) + [Timeline]({{ '/reports/timeline/' | relative_url }}) + [Who's Who]({{ '/reports/who-is-who/' | relative_url }})
-3. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+3. [Annotated Verified]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
 4. [Academic Paper]({{ '/reports/academic-paper/' | relative_url }})
 
 ### Academic Research
 1. [Academic Paper]({{ '/reports/academic-paper/' | relative_url }})
-2. [Annotated Verified]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+2. [Annotated Verified]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
 3. [Verified URLs]({{ '/reports/verified-urls/' | relative_url }})
 4. [JSON Data]({{ '/reports/chomsky-verification-report-20251120-202811/' | relative_url }})
 

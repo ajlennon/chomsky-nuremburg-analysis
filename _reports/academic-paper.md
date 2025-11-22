@@ -356,7 +356,7 @@ This analysis verifies 55% of Chomsky's claims with extensive evidence from prim
 
 Harvard Law School Library. (n.d.). *Nuremberg Trials Project*. https://nuremberg.law.harvard.edu/
 
-**Verified Document URLs:** See [Verified URLs]({{ '/reports/verified-urls/' | relative_url }}) for complete list of 110 verified source URLs.
+**Verified Document URLs:** See [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) for complete list of 110 verified source URLs.
 
 ### Secondary Sources
 
@@ -395,11 +395,11 @@ See [Detailed Report]({{ '/reports/chomsky_verification_report_20251120_202811/'
 See [Verified URLs]({{ '/reports/verified_urls/' | relative_url }}) for complete list of verified source documents.
 
 ### Appendix C: Evidence Excerpts
-See [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }}) for evidence excerpts with citations.
+See [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }}) for evidence excerpts with citations.
 
 ---
 
 **This academic paper format provides proper citation structure and scholarly analysis while maintaining accessibility.**
 
-**For general readers, see:** [Executive Summary]({{ '/reports/executive-summary/' | relative_url }})  
-**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})
+**For general readers, see:** [Executive Summary]({{ '/reports/EXECUTIVE_SUMMARY/' | relative_url }})  
+**For detailed analysis, see:** [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
