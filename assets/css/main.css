@@ -16,7 +16,8 @@
     --light-bg: #f8f9fa;
     --border-color: #dee2e6;
     --max-width: 1200px;
-    --spacing: 1.5rem;
+    --spacing: 2.5rem;
+    --page-margin: 2rem;
 }
 
 body {
@@ -37,7 +38,7 @@ body {
 .wrapper {
     max-width: var(--max-width);
     margin: 0 auto;
-    padding: 0 var(--spacing);
+    padding: 0 var(--page-margin);
 }
 
 .site-header .wrapper {
@@ -90,7 +91,7 @@ body {
 /* Main Content */
 .main-content {
     min-height: calc(100vh - 200px);
-    padding: var(--spacing) 0;
+    padding: var(--spacing) var(--page-margin);
 }
 
 /* Hero Section */
@@ -606,6 +607,9 @@ body {
 }
 
 @media (max-width: 480px) {
+    :root {
+        --page-margin: 1rem;
+    }
     .summary-stats {
         grid-template-columns: 1fr;
     }
