@@ -1,7 +1,7 @@
 # Site Configuration
 title: "Chomsky Nuremberg Analysis"
 description: "Verification of Noam Chomsky's essay 'If the Nuremberg Laws were Applied...' against documents from the Harvard Law School Library's Nuremberg Trials Project"
-url: "https://nurembergfacts.org"
+url: "https://chomskynuremberg.org"
 baseurl: ""
 author: "Alex J Lennon"
 email: "ajlennon@gmail.com"
