@@ -193,7 +193,7 @@ We have successfully:
 ---
 
 **See Also:**
-- [Tokyo Trials Analysis Report]({{ '/reports/tokyo-trials-analysis/' | relative_url }})
+- [Tokyo Trials Analysis Report]({{ '/reports/TOKYO_TRIALS_ANALYSIS/' | relative_url }})
 - [Additional Sources Document](../TOKYO_TRIALS_ADDITIONAL_SOURCES.md)
 - [Analysis Start Document](../TOKYO_TRIALS_ANALYSIS_START.md)
 

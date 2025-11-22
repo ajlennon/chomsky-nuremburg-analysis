@@ -3,10 +3,6 @@ layout: report
 title: "Verification Report: Chomsky's 'If the Nuremberg Laws were Applied...'"
 date: 2025-11-20
 source: "Harvard Law School Library's Nuremberg Trials Project"
----
-
----
-title: Detailed Verification Report
 description: Complete verification results with all claims analyzed and evidence excerpts
 order: 9
 ---
