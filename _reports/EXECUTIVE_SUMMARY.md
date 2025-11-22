@@ -248,4 +248,4 @@ This raises questions about:
 
 **This summary was created to make complex historical and legal analysis accessible to general readers while maintaining accuracy and citing sources.**
 
-**For detailed analysis with full citations, see:** [Annotated Verified Document]({{ '/reports/CHOMSKY_ANNOTATED_VERIFIED/' | relative_url }})
+**For detailed analysis with full citations, see:** [Annotated Verified Document]({{ '/reports/chomsky-annotated-verified/' | relative_url }})

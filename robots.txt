@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chomskynuremberg.org/sitemap.xml
+Sitemap: https://nurembergfacts.org/sitemap.xml
 
