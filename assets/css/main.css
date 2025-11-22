@@ -568,6 +568,9 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    :root {
+        --page-margin: 1.5rem;
+    }
     .nav-trigger:checked ~ .trigger {
         display: flex;
         flex-direction: column;
